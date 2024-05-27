@@ -1,0 +1,11 @@
+/* aside styling */
+.userName small {
+    font-size: 14px;
+    font-weight: 300;
+  }
+  
+  .bdSidebar {
+    background: linear-gradient(90deg, #1e40af, #9333ea);
+    width: 100%;
+  }
+  

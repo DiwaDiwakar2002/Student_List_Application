@@ -1,0 +1,33 @@
+/* form component */
+.form {
+  width: 384px;
+  height: 510px;
+  background-color: white;
+  border-radius: 6px;
+  filter: drop-shadow(0 10px 15px #0000001A);
+    filter: drop-shadow(0 4px 6px #0000001A);
+}
+
+.formInputField {
+  border-color: 1px solid #d1d5db;
+  margin: 10px 0;
+}
+
+.formInputField::placeholder {
+  color: #b2b2b2;
+}
+.formInputField:focus {
+  box-shadow: none !important;
+  border-color: #22c55e !important;
+}
+
+.formButton1{
+  background-color: #22C55E !important;
+  border: none !important;
+}
+
+.formButton2{
+  background-color: #C55D22 !important;
+  border: none !important;
+
+}

@@ -1,0 +1,14 @@
+/* search component */
+.searchInput {
+    border: 1px solid #d1d5db;
+    margin: 5px;
+    border-radius: 6px;
+  }
+  
+  .searchInput::placeholder {
+    color: #b2b2b2;
+  }
+  .searchInput:focus {
+    box-shadow: none !important;
+    border-color: #22C55E !important;
+  }
